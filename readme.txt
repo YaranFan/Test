@@ -1,4 +1,4 @@
-add one line on computer
+add c2 one line on computer
 my first git repo.
 lalala
 check
